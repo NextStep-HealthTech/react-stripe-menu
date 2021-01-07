@@ -1,8 +1,8 @@
 {
-  "name": "react-stripe-menu",
-  "homepage": "http://aholachek.github.io/react-stripe-menu",
+  "name": "@nextstepdev/react-stripe-menu",
+  "homepage": "https://github.com/NextStep-HealthTech/react-stripe-menu",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "normalize.css": "^8.0.1",
     "react": "^16.8.6",
@@ -22,7 +22,8 @@
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-runtime": "^6.26.0",
-    "gh-pages": "^1.1.0"
+    "gh-pages": "^1.1.0",
+    "release-it": "^14.2.2"
   },
   "browserslist": {
     "production": [
