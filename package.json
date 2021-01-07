@@ -2,7 +2,6 @@
   "name": "@nextstepdev/react-stripe-menu",
   "homepage": "https://github.com/NextStep-HealthTech/react-stripe-menu",
   "version": "0.1.0",
-  "private": false,
   "dependencies": {
     "normalize.css": "^8.0.1",
     "react": "^16.8.6",
@@ -17,7 +16,8 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "release": "release-it"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
