@@ -36,5 +36,19 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "description": "Built with React, [Styled Components](https://www.styled-components.com/), and [React-Flip-Toolkit](https://github.com/aholachek/react-flip-toolkit).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextStep-HealthTech/react-stripe-menu.git"
+  },
+  "author": "NextStepDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NextStep-HealthTech/react-stripe-menu/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
