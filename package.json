@@ -1,7 +1,7 @@
 {
   "name": "@nextstepdev/react-stripe-menu",
   "homepage": "https://github.com/NextStep-HealthTech/react-stripe-menu",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "normalize.css": "^8.0.1",
     "react": "^16.8.6",
